@@ -8,4 +8,7 @@ add to github from interface :
     $$ git remote -v (show repos connected to it)
     $ git push -u origin main (-u to et an upstream -> to not type everytime origin main)
 add from terminal :
-    
+
+MERGING :
+    $git branch (check branches)
+    $git checkout (move branches / create =>) -b feature 
