@@ -13,6 +13,8 @@ MERGING :
     $git branch (check branches)
     $git checkout (move branches / create =>) -b feature 
 
+<<<<<<< HEAD
 this is added in master
 this is added in feature
 i will try stash....
+I will try a rebase and see what changes
