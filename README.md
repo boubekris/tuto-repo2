@@ -14,3 +14,4 @@ MERGING :
     $git checkout (move branches / create =>) -b feature 
 
 this is added in master
+this is added in feature
