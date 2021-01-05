@@ -12,3 +12,6 @@ add from terminal :
 MERGING :
     $git branch (check branches)
     $git checkout (move branches / create =>) -b feature 
+
+hello this is a change in master
+this is added in feature
